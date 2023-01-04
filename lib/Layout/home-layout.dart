@@ -149,6 +149,7 @@ class HomeLayout extends StatelessWidget {
               /* setState(() {
             currantIndex = index;
           }); */
+              //first change
               cubit.changeIndex(index);
             },
             items: [
